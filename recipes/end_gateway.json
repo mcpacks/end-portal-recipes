@@ -1,0 +1,28 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:end_gateway"
+        },
+
+        "tags": ["crafting_table"],
+        "pattern": [
+            " # ",
+            "#X#",
+            " # "
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:ender_eye"
+            },
+            "X": {
+                "item": "minecraft:dragon_egg"
+            }
+        },
+        "result": [
+            { "item": "minecraft:end_gateway" },
+            { "item": "minecraft:dragon_egg" }
+        ]
+    }
+}
+  

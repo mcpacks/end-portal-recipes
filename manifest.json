@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Adds recipes to create custom end portals",
+        "name": "End Portal Recipes",
+        "uuid": "7ec01997-1437-4cde-9b46-886232a70ce7",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 12, 0]
+    },
+    "modules": [
+        {
+            "description": "Adds recipes to create custom end portals",
+            "type": "data",
+            "uuid": "2a9e1fd4-f58c-443f-a896-c98f57966294",
+            "version": [0, 0, 1]
+        }
+    ]
+}
