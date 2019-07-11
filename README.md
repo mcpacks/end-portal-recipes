@@ -11,6 +11,8 @@ You can download the latest release by heading over to our [releases page][relea
 
 ## Recipes
 
+**The dragon egg will not be used up in the recipe**
+
 ### End Portal
 
 The portal block used to teleport to the end:
